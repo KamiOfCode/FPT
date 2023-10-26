@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/FA23/PRJ/SE1707MVC02/src/java/cart/CartObject.java</file>
+            <file>file:/D:/FA23/PRJ/SE1707MVC02/src/java/servlet/LoginServlet.java</file>
+            <file>file:/D:/FA23/PRJ/SE1707MVC02/src/java/registration/RegistrationCreateError.java</file>
+            <file>file:/D:/FA23/PRJ/SE1707MVC02/web/errors.html</file>
+            <file>file:/D:/FA23/PRJ/SE1707MVC02/src/java/servlet/AddItemToCartServlet.java</file>
+            <file>file:/D:/FA23/PRJ/SE1707MVC02/web/invalid.html</file>
+            <file>file:/D:/FA23/PRJ/SE1707MVC02/src/java/servlet/SearchLastnameServlet.java</file>
+            <file>file:/D:/FA23/PRJ/SE1707MVC02/src/java/registration/RegistrationDAO.java</file>
+            <file>file:/D:/FA23/PRJ/SE1707MVC02/web/bookStore.html</file>
+            <file>file:/D:/FA23/PRJ/SE1707MVC02/web/viewCart.jsp</file>
+            <file>file:/D:/FA23/PRJ/SE1707MVC02/web/createAccount.html</file>
+            <file>file:/D:/FA23/PRJ/SE1707MVC02/src/java/servlet/DispatchServlet.java</file>
+            <file>file:/D:/FA23/PRJ/SE1707MVC02/web/login.html</file>
+            <file>file:/D:/FA23/PRJ/SE1707MVC02/src/java/util/DBHelper.java</file>
+            <file>file:/D:/FA23/PRJ/SE1707MVC02/web/search.jsp</file>
+            <file>file:/D:/FA23/PRJ/SE1707MVC02/web/WEB-INF/web.xml</file>
+            <file>file:/D:/FA23/PRJ/SE1707MVC02/src/java/servlet/DeleteAccountServlet.java</file>
+            <file>file:/D:/FA23/PRJ/SE1707MVC02/src/java/servlet/UpdateAccountServlet.java</file>
+            <file>file:/D:/FA23/PRJ/SE1707MVC02/src/java/servlet/CreateAccountServlet.java</file>
+            <file>file:/D:/FA23/PRJ/SE1707MVC02/web/META-INF/context.xml</file>
+            <file>file:/D:/FA23/PRJ/SE1707MVC02/web/search.html</file>
+            <file>file:/D:/FA23/PRJ/SE1707MVC02/src/java/registration/RegistrationDTO.java</file>
+            <file>file:/D:/FA23/PRJ/SE1707MVC02/src/java/servlet/StartUpServlet.java</file>
+            <file>file:/D:/FA23/PRJ/SE1707MVC02/web/createAccount.jsp</file>
+        </group>
+    </open-files>
+</project-private>
