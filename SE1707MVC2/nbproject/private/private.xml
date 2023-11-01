@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group name="PRJ301">
+            <file>file:/D:/FPT/FA23/PRJ301/SE1707MVC2/src/java/huylh/servlet/DispatchServlet.java</file>
+            <file>file:/D:/FPT/FA23/PRJ301/SE1707MVC2/src/java/huylh/cart/CartObject.java</file>
+            <file>file:/D:/FPT/FA23/PRJ301/SE1707MVC2/src/java/huylh/servlet/RemoveItemServlet.java</file>
+            <file>file:/D:/FPT/FA23/PRJ301/SE1707MVC2/src/java/huylh/servlet/DeleteAccountServlet.java</file>
+            <file>file:/D:/FPT/FA23/PRJ301/SE1707MVC2/src/java/huylh/servlet/LogoutServlet.java</file>
+            <file>file:/D:/FPT/FA23/PRJ301/SE1707MVC2/src/java/huylh/servlet/AddItemToCartServlet.java</file>
+            <file>file:/D:/FPT/FA23/PRJ301/SE1707MVC2/web/search.jsp</file>
+            <file>file:/D:/FPT/FA23/PRJ301/SE1707MVC2/src/java/huylh/servlet/LoginServlet.java</file>
+            <file>file:/D:/FPT/FA23/PRJ301/SE1707MVC2/web/viewCart.jsp</file>
+        </group>
+    </open-files>
+</project-private>
